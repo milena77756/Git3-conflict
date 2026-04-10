@@ -1,3 +1,2 @@
 text1
 git3 change in conflict
-
